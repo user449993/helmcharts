@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: 5.3.2
+    created: "2020-03-31T15:10:01.474026342Z"
+    deprecated: true
+    description: This is the one that I put there.
+    digest: 5205eb316f26e9c039c44eb86946ca1fbaf7c8b7485133b7e28fa82e50ad24bb
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-9.0.2.tgz
+    version: 9.0.2
+generated: "2020-03-31T15:10:01.470473389Z"
